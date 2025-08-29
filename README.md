@@ -41,7 +41,7 @@ Idade, peso, IMC, massa muscular, massa gorda, ingestão calórica e macronutrie
 └── README.md # Documentação
 
 
----
+
 
 ## ⚙️ Pré-requisitos
 
@@ -50,27 +50,27 @@ Idade, peso, IMC, massa muscular, massa gorda, ingestão calórica e macronutrie
 
 Instale as dependências com:
 
-```bash
+~~~bash
 pip install -r requirements.txt
-
+~~~
 ▶️ Como Executar
 
 Certifique-se de que os arquivos de pesos (.pth) e hiperparâmetros (.json) estejam no mesmo diretório do script.
 
 Rode o script principal:
-
+~~~bash
 python main.py
-
+~~~
 
 O programa irá:
 
-Gerar dados simulados de entrada
+1. Gerar dados simulados de entrada
 
-Exibir os dados simulados
+2. Exibir os dados simulados
 
-Realizar a predição com o modelo carregado
+3. Realizar a predição com o modelo carregado
 
-Exibir as predições dos biomarcadores na escala original
+4. Exibir as predições dos biomarcadores na escala original
 
 
 📌 Observações
@@ -100,7 +100,7 @@ NumPy
 Projeto desenvolvido por Vinicius Mantovam
 MBA em Data Science e Analytics - USP/Esalq
 
-Você pode ouvir a apresentação do meu projeto [aqui](https://cdn.discordapp.com/attachments/623300452552802305/1411083495006015669/Projeto_mestrado_Vinicius_Mantovam_USP.mp3).
+🎵 Você pode ouvir a apresentação do meu projeto [aqui](https://cdn.discordapp.com/attachments/623300452552802305/1411083495006015669/Projeto_mestrado_Vinicius_Mantovam_USP.mp3).
 
 
 OBS: A rede não desempenhou poder preditivo satisfatório,apesar da realização de engenharia das features e tratamento dos dados. O que é esperado em um ecossiteama complexo como o corpo humano!
