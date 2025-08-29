@@ -1,0 +1,10 @@
+{
+    "n_layers": 1,
+    "n_units_l0": 20,
+    "dropout_l0": 0.0022545689775369743,
+    "optimizer": "RMSprop",
+    "lr": 0.003065891430423202,
+    "weight_decay": 0.0007543235803539226,
+    "epochs": 24,
+    "batch_size": 8
+}

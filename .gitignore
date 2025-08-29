@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pkl
+*.h5
+*.pt
+nome_do_ambiente/
