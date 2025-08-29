@@ -100,7 +100,9 @@ NumPy
 Projeto desenvolvido por Vinicius Mantovam
 MBA em Data Science e Analytics - USP/Esalq
 
-🎵 Você pode ouvir a apresentação do meu projeto [aqui](https://cdn.discordapp.com/attachments/623300452552802305/1411083495006015669/Projeto_mestrado_Vinicius_Mantovam_USP.mp3).
+🎵 Você pode ouvir a apresentação do meu projeto aqui 👇🏻👇🏻
+
+<audio controls src="https://cdn.discordapp.com/attachments/623300452552802305/1411083495006015669/Projeto_mestrado_Vinicius_Mantovam_USP.mp3?ex=68b35d69&is=68b20be9&hm=3b7ce153aaf3ddc0cd637cdc0b59e63475731275c2b96cafa713181470d28d51&" title="thps://cdn.discordapp.com/attachments/623300452552802305/1411083495006015669/Projeto_mestrado_Vinicius_Mantovam_USP.mp3"></audio>
 
 
 OBS: A rede não desempenhou poder preditivo satisfatório,apesar da realização de engenharia das features e tratamento dos dados. O que é esperado em um ecossiteama complexo como o corpo humano!
