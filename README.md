@@ -31,9 +31,13 @@ Idade, peso, IMC, massa muscular, massa gorda, ingestão calórica e macronutrie
 
 
 ├── Main.py # Script principal do projeto
+
 ├── melhores_hyperparametros_OX_50_MSE_.json # Hiperparâmetros salvos (necessário para execução)
+
 ├── melhor_modelo_OX_50_MSE.pth # Checkpoint do modelo treinado (necessário para execução)
+
 ├── requirements.txt # Dependências do projeto
+
 └── README.md # Documentação
 
 
