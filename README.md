@@ -1,6 +1,6 @@
 # Predição de Endocanabinoides com Redes Neurais a partir de Composição Corporal e Perfil de Alimentação
 
-Este projeto implementa uma **rede neural em PyTorch** para realizar **predições de biomarcadores (endocanabinoides)** a partir de dados simulados de saúde e composição corporal.  
+Este projeto implementa uma **rede neural usando PyTorch** para realizar **predições de biomarcadores (endocanabinoides)** a partir de dados simulados de saúde e composição corporal.  
 
 O modelo utiliza hiperparâmetros previamente otimizados e carrega pesos de treinamento salvos, permitindo executar **inferência em novos dados simulados**.
 
